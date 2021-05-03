@@ -56,7 +56,7 @@ deposit --client="John Jones" --amount=100 --description="ATM Deposit"
 
 withdraw --client="John Jones" --amount=100 --description="ATM Withdrawal"
 
-show_bank_statement --client="John Jones" --since="2021-01-01 00:00:00" --till="2021-05-02 00:00:00"
+show_bank_statement --client="John Jones" --since="2021-01-01 00:00:00" --till="2021-06-02 00:00:00"
 
 
 Пример работы из терминала:
